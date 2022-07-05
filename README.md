@@ -1,4 +1,4 @@
-# 20051350 Meghna-Biswal
+# Meghna-Biswal
 B-tech CSE,
 //WAP java program to create a calculater using applet. 
 import java.applet.*;
