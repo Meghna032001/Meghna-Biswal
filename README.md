@@ -77,8 +77,6 @@ if(ae.getSource()==b4){
 int z=x/y;
 tf3.setText(String.valueOf(z));
 }
-
-
 }
 }
 /*
